@@ -15,8 +15,8 @@ pricing, seller information, and more.
 Features:
 Dataset: Link
 
-Title: Title of the product.
-Id: Internal ID for the product.
+*Title: Title of the product.
+* Id: Internal ID for the product.
 actual_price: The actual price of the product.
 average_rating: Average rating of the product.
 brand: Brand of the product.
