@@ -13,7 +13,6 @@ commerce platform. It includes attributes such as product details,
 pricing, seller information, and more.
 
 Features:
-Dataset: Link
 
 * Title: Title of the product.
 * Id: Internal ID for the product.
